@@ -1,4 +1,8 @@
 <div align="center">
+  <img src=".github/preview.png" alt="Baalvion NetStack - Proxy and Data Network" width="100%" />
+</div>
+
+<div align="center">
 
 # BaalvionStack — Proxy & Data Network
 
